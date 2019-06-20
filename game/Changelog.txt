@@ -1,0 +1,33 @@
+Changelog
+
+valpha0.1   - First build
+
+valpha0.9   - Main menu revamped
+
+vaplaha1.3  - Added BGMs and SFSx
+	    - Replaced Font
+
+valpha2.0   - Added Map
+  	    - Missing *.ogg* bug fixed [ ty JohnJeffereyCelindro (yamateH ) ]
+
+vbeta0.1a   - Expanded story line
+	    - Proof reading completed
+  	    - Added gallery
+	    - Added Urs tips
+
+vbeta0.1b   - Graphics overhaul
+	    - Added splash screen
+
+v1.0 	    - Android platform porting
+
+v1.110      - GUI buttons revamp
+
+v1.112      - Added in-game quit button 
+	    - Added in-game quit button
+
+v1.113 	    - Replaced character name tags
+	    - "Force return" bug fix
+
+v1.114	    - Image map revamp
+	    - Mab button ending bug fix
+	    - "Vission" Typo fix
